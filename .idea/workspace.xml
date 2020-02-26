@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dae767d2-c97f-49c1-ad8d-91f93aedb3bb" name="Default Changelist" comment="Added index files">
+      <change afterPath="$PROJECT_DIR$/.idea/Conqurer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-1a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/feature1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bgscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1YLJQxHohRVbwLsQ8H8OuDbQbYK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dae767d2-c97f-49c1-ad8d-91f93aedb3bb" name="Default Changelist" comment="" />
+      <created>1582715928347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582715928347</updated>
+      <workItem from="1582715934230" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added index files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added index files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582716252817">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582716252817" />
+    <state x="553" y="262" key="Github.ShareDialog" timestamp="1582716062997">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="553" y="262" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1582716062997" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1582716376087">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582716376087" />
+    <state x="492" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582716435715">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1582716435715" />
+    <state x="480" y="233" key="git4idea.rebase.GitRebaseDialog" timestamp="1582715976466">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="480" y="233" key="git4idea.rebase.GitRebaseDialog/0.0.1366.738@0.0.1366.738" timestamp="1582715976466" />
+  </component>
+</project>
