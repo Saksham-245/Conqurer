@@ -134,7 +134,7 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
     .nav {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
     .col-sm-4 .card {
         margin-top: 5%;
@@ -145,7 +145,7 @@
     }
     .para .d-flex {
         margin-left: 5%;
-        font-size: 0.6rem;
+        font-size: 0.5rem;
     }
     .para .d-inline-flex {
         margin-left: 5%;
