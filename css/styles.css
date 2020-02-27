@@ -49,6 +49,10 @@
     font-size: 1rem;
 }
 
+#card-top {
+    padding-top: 11%;
+}
+
 .medium {
     margin-top: 5%;
     background: url('/img/bg-2.jpg');
@@ -80,8 +84,75 @@
     margin-left: 35%;
 }
 
-@media (min-width:320px) and (max-width:480px) {
+#top {
+    padding-bottom: 16%;
+}
+
+#bottom {
+    padding-bottom: 6%;
+}
+
+#services .container .row .col .card {
+    width: 14rem;
+}
+
+#services .container .row .col .card .card-title {
+    text-align: center;
+    color: gray;
+}
+
+#services .container .row .col .card .btn-outline-secondary {
+    margin-left: 30%;
+}
+
+.col-lg-12 {
+    margin-top: 2%;
+    padding-right: 4%;
+}
+
+.col-lg-12 .card-title {
+    color: gray;
+}
+
+.col-lg-12 .btn-outline-secondary {
+    margin-left: 0%;
+}
+
+#form .bottom {
+    background: url('/img/bg-3.jpg');
+    text-align: center;
+}
+
+#form {
+    margin-top: 5%;
+}
+
+#form .display-4 {
+    color: white;
+    padding-top: 5%;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
     .nav {
         font-size: 0.8rem;
+    }
+    .col-sm-4 .card {
+        margin-top: 5%;
+    }
+    #services .container .row .col .card {
+        margin-top: 5%;
+        margin-left: 20%;
+    }
+    .para .d-flex {
+        margin-left: 5%;
+        font-size: 0.6rem;
+    }
+    .para .d-inline-flex {
+        margin-left: 5%;
+        font-size: 0.6rem;
+    }
+    .para .last {
+        margin-left: 25%;
+        font-size: 0.6rem;
     }
 }
