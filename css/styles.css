@@ -20,6 +20,11 @@
     color: white;
     padding-top: 15%;
     padding-bottom: 10%;
+    background-repeat: no-repeat;
+}
+
+#card-top {
+    padding-bottom: 11%;
 }
 
 .card-title {
@@ -53,6 +58,7 @@
     margin-top: 5%;
     background: url('https://res.cloudinary.com/dbhgqdhc1/image/upload/v1582796298/bg-2_se67fy_sqlnkl.webp');
     color: white;
+    background-repeat: no-repeat;
 }
 
 .display-4 {
@@ -117,6 +123,7 @@
 #form .bottom {
     background: url('https://res.cloudinary.com/dbhgqdhc1/image/upload/v1582796298/bg-3_uafxrw_cplcsw.webp');
     text-align: center;
+    background-repeat: no-repeat;
 }
 
 #form {
@@ -137,6 +144,11 @@
 #textarea {
     margin-left: 50%;
     margin-top: -15%;
+}
+
+.btn-dark {
+    margin-left: 14%;
+    margin-top: 2%;
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -170,14 +182,23 @@
         margin-top: 5%;
         margin-left: 25%
     }
+    .btn-dark {
+        margin-right: 15%;
+        margin-top: 3%;
+    }
 }
 
+@media(min-width:480px) and (max-width: 768px) {
+    #card-top {
+        padding-bottom: 18%;
+    }
+    #services .container .row .col .card {
+        margin-left: 15%;
+        margin-top: 5%;
+    }
+    #textarea {
+        margin-top: -21%;
+    }
+}
 
-/* @media (min-width: 768px) and (max-width: 1024px) {
-    .nav {
-        font-size: 2rem;
-    }
-    #services .row .col .card {
-        margin-top: 2%;
-    }
-} */
+@media (min-width: 768px) and (max-width: 1024px) {}
