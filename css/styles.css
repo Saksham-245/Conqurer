@@ -134,7 +134,7 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
     .nav {
-        font-size: 0.7rem;
+        font-size: 0.6rem;
     }
     .col-sm-4 .card {
         margin-top: 5%;
