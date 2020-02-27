@@ -16,7 +16,7 @@
 }
 
 .top {
-    background: url('C:/Users/Saksham/Documents/Projects/Conqurer/img/bg-1.jpg');
+    background-image: url('/img/bg-1.jpg');
     color: white;
     padding-top: 15%;
     padding-bottom: 10%;
