@@ -49,10 +49,6 @@
     font-size: 1rem;
 }
 
-#card-top {
-    padding-top: 11%;
-}
-
 .medium {
     margin-top: 5%;
     background: url('https://res.cloudinary.com/dbhgqdhc1/image/upload/v1582796298/bg-2_se67fy_sqlnkl.webp');
@@ -132,6 +128,17 @@
     padding-top: 5%;
 }
 
+.form-control {
+    width: 35%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+#textarea {
+    margin-left: 50%;
+    margin-top: -15%;
+}
+
 @media (min-width: 320px) and (max-width: 480px) {
     .nav {
         font-size: 0.6rem;
@@ -155,4 +162,22 @@
         margin-left: 25%;
         font-size: 0.6rem;
     }
+    .form-control {
+        margin-left: 25%;
+        width: 55%;
+    }
+    #textarea {
+        margin-top: 5%;
+        margin-left: 25%
+    }
 }
+
+
+/* @media (min-width: 768px) and (max-width: 1024px) {
+    .nav {
+        font-size: 2rem;
+    }
+    #services .row .col .card {
+        margin-top: 2%;
+    }
+} */
