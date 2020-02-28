@@ -168,13 +168,13 @@
         margin-bottom: -1%;
     }
     .para .d-inline-flex {
-        margin-left: 6%;
-        font-size: 0.5rem;
+        margin-left: 5%;
+        font-size: 0.6rem;
         margin-bottom: 1%;
     }
     .para .last {
-        margin-left: 28%;
-        font-size: 0.5rem;
+        margin-left: 20%;
+        font-size: 0.7rem;
     }
     .form-control {
         margin-left: 25%;
@@ -187,5 +187,11 @@
     .btn-dark {
         margin-right: 15%;
         margin-top: 3%;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    #textarea {
+        margin-top: -27%;
     }
 }
