@@ -190,7 +190,7 @@
     }
 }
 
-@media (max-width: 767px) and (orientation: landscape) {
+@media (min-width: 481px)and (max-width: 767px) {
     #textarea {
         margin-top: -27%;
     }
