@@ -190,8 +190,11 @@
     }
 }
 
-@media (max-width: 768px) and (min-width: 480px) {
-    #textarea {
-        margin-top: -11%;
+@media (min-width: 481px) and (max-width: 767px) {
+    #form #textarea {
+        margin-top: -27%
+    }
+    #form #btn {
+        margin-left: 17%;
     }
 }
