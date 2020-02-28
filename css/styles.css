@@ -190,8 +190,11 @@
     }
 }
 
-@media (min-width: 481px) and (max-width: 767px) {
+@media (max-width: 767px) and (orientation: landscape) {
     #textarea {
         margin-top: -27%;
+    }
+    #btn {
+        margin-left: 17%;
     }
 }
