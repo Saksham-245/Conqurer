@@ -163,16 +163,18 @@
         margin-left: 20%;
     }
     .para .d-flex {
-        margin-left: 5%;
+        margin-left: 10%;
         font-size: 0.5rem;
+        margin-bottom: -1%;
     }
     .para .d-inline-flex {
-        margin-left: 5%;
-        font-size: 0.6rem;
+        margin-left: 6%;
+        font-size: 0.5rem;
+        margin-bottom: 1%;
     }
     .para .last {
-        margin-left: 25%;
-        font-size: 0.6rem;
+        margin-left: 28%;
+        font-size: 0.5rem;
     }
     .form-control {
         margin-left: 25%;
