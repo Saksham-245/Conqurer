@@ -190,17 +190,8 @@
     }
 }
 
-@media (min-width: 481px)and (max-width: 768px) {
+@media (max-width: 768px) and (min-width: 480px) {
     #textarea {
-        margin-top: -20%;
-    }
-    #btn {
-        margin-left: 17%;
-    }
-}
-
-@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-    #textarea {
-        margin-top: -16%;
+        margin-top: -11%;
     }
 }
