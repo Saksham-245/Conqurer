@@ -255,10 +255,10 @@
         margin-left: 30%;
     }
     #form #textarea {
-        margin-top: -21%
+        margin-top: -21%;
     }
     #form #btn {
-        margin-left: 16%;
+        margin-left: 14%;
     }
 }
 
@@ -297,3 +297,5 @@
         margin-left: 14%;
     }
 }
+
+@media (min-width: 1280px) {}
