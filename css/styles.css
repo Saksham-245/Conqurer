@@ -222,3 +222,46 @@
         margin-left: 17%;
     }
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .container .row .col-sm-4 .card {
+        font-size: 0.6rem;
+    }
+    #card-deck-top {
+        padding-bottom: 7%;
+    }
+    .container .row .col-sm-4 .card .card-title {
+        font-size: 0.9rem;
+    }
+    .container .row .col-sm-4 .card .btn {
+        margin-left: 20%;
+    }
+    #about .row .col-sm-6 .card .card-title {
+        font-size: 1.4rem;
+    }
+    #about #card-top {
+        padding-bottom: 18%;
+    }
+    #about .row .col-sm-6 .card .btn-outline-secondary {
+        margin-left: 65%;
+    }
+    #services .container .row .col .card {
+        margin-top: 5%;
+        margin-left: 13%;
+    }
+    #services .d-flex {
+        margin-left: 10%;
+    }
+    #services .d-inline-flex {
+        margin-left: 7%;
+    }
+    #services .last {
+        margin-left: 30%;
+    }
+    #form #textarea {
+        margin-top: -21%
+    }
+    #form #btn {
+        margin-left: 16%;
+    }
+}
