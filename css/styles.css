@@ -90,10 +90,6 @@
     padding-bottom: 16%;
 }
 
-#bottom {
-    padding-bottom: 6%;
-}
-
 #services .container .row .col .card {
     width: 14rem;
 }
@@ -223,7 +219,7 @@
     }
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
     .container .row .col-sm-4 .card {
         font-size: 0.6rem;
     }
@@ -263,5 +259,41 @@
     }
     #form #btn {
         margin-left: 16%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    #top {
+        padding-bottom: 18%;
+    }
+    #bottom {
+        padding-bottom: 8%;
+    }
+    #services .container .row {
+        font-size: 0.9rem;
+    }
+    #services .container .row .col .card {
+        width: 13rem;
+    }
+    #card-top {
+        padding-bottom: 13%;
+    }
+    .d-flex {
+        margin-left: 15%;
+        font-size: 1.2rem;
+    }
+    .d-inline-flex {
+        margin-left: 9%;
+        font-size: 1.2rem;
+    }
+    .last {
+        margin-left: 32%;
+        font-size: 1.2rem;
+    }
+    #form #textarea {
+        margin-top: -17%;
+    }
+    #form #btn {
+        margin-left: 14%;
     }
 }
