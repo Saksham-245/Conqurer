@@ -6,11 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Conqurer Simple Bootstrap Template">
     <meta name="propeller" content="a6214d79c9533636bef01569b83c2662">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script src="js/jquery.js"></script>
     <script src="js/bgscroll.js"></script>
     <script src="js/jquery.scrollUp.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/wow.js"></script>
+    
     <link rel="stylesheet" href="css/styles.css">
     <title>Conqurer</title>
 </head>
@@ -76,28 +79,32 @@
         <section id="about">
             <div class="row">
                 <div class="col-sm-6">
-                    <div class="card">
-                        <img src="img/2-1.webp" alt="" class="card-img-top">
-                        <div class="card-body" id="card-top">
-                            <h5 class="card-title" style="color: grey;">Two Column Left Side</h5>
-                            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor eros eget eros maximus, ut cursus sem euismod. Donec iaculis tristique odio at consectetur. Nullam dignissim varius suscipit. Sed in leo sit amet velit finibus
-                                pretium.
-                            </p>
-                            <p class="lead">Vestibulum vel mauris at erat mattis accumsan et ac lorem. Cras non venenatis orci, sed tincidunt massa. Duis nisl lectus, auctor eu sodales at, dignissim eu orci. Sed vitae venenatis magna, in blandit metus.
-                            </p>
+                    <div class="wow slideInLeft">
+                            <div class="card">
+                                <img src="img/2-1.webp" alt="" class="card-img-top">
+                                <div class="card-body" id="card-top">
+                                    <h5 class="card-title" style="color: grey;">Two Column Left Side</h5>
+                                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor eros eget eros maximus, ut cursus sem euismod. Donec iaculis tristique odio at consectetur. Nullam dignissim varius suscipit. Sed in leo sit amet velit finibus
+                                        pretium.
+                                    </p>
+                                    <p class="lead">Vestibulum vel mauris at erat mattis accumsan et ac lorem. Cras non venenatis orci, sed tincidunt massa. Duis nisl lectus, auctor eu sodales at, dignissim eu orci. Sed vitae venenatis magna, in blandit metus.
+                                    </p>
+                                </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-6">
-                    <div class="card">
-                        <img src="img/2-2.webp" alt="" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title" style="color: grey;">Two Column Right Side</h5>
-                            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor eros eget eros maximus, ut cursus sem euismod. Donec iaculis tristique odio at consectetur. Nullam dignissim varius suscipit. Sed in leo sit amet velit finibus
-                                pretium.
-                            </p>
-                            <p class="lead">Vestibulum vel mauris at erat mattis accumsan et ac lorem. Cras non venenatis orci, sed tincidunt massa. Duis nisl lectus, auctor eu sodales at, dignissim eu orci. Sed vitae venenatis magna, in blandit metus.</p>
-                            <a href="#" class="btn btn-outline-secondary">Read More</a>
+                    <div class="wow slideInRight">
+                        <div class="card">
+                            <img src="img/2-2.webp" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title" style="color: grey;">Two Column Right Side</h5>
+                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor eros eget eros maximus, ut cursus sem euismod. Donec iaculis tristique odio at consectetur. Nullam dignissim varius suscipit. Sed in leo sit amet velit finibus
+                                    pretium.
+                                </p>
+                                <p class="lead">Vestibulum vel mauris at erat mattis accumsan et ac lorem. Cras non venenatis orci, sed tincidunt massa. Duis nisl lectus, auctor eu sodales at, dignissim eu orci. Sed vitae venenatis magna, in blandit metus.</p>
+                                <a href="#" class="btn btn-outline-secondary">Read More</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -219,6 +226,9 @@
         $(window).scroll(function() {
             $('.bottom').bgscroll();
         });
+    </script>
+    <script>
+        new WOW().init();
     </script>
 </body>
 
